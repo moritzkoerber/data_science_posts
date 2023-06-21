@@ -1,0 +1,3 @@
+data_source my_data:
+  type: duckdb
+  path: "database.db"
